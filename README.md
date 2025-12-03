@@ -7,7 +7,7 @@ This is chess game on the Solana blockchain. As a play-to-earn game, I have impl
 ## How to use it
 
 ```bash
-git clone https://github.com/cutupdev/Solana-Chess-Casino-Game.git
+git clone https://github.com/devcarron/Crash-game-solana.git
 ```
 
 ```bash
